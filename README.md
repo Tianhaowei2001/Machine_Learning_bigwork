@@ -1,5 +1,5 @@
 # Machine_Learning_bigwork
-机器学习大作业，仅为自己的学习作参考
+机器学习大作业，仅用于自己学习
 
 
 Unet是Unet语义分割模型
